@@ -15,6 +15,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-castro-b125a8243" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=none">
   </a>
 </div>
